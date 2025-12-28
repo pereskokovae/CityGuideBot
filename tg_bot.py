@@ -29,7 +29,7 @@ logger = logging.getLogger(__name__)
 PLACES = []
 
 
-def send_safe_photo(bot, chat_id, url, caption=None):
+def send_safe_photo(bot, chat_id, url, caption=None, parse_mode=None, reply_markup=None):
     try:
         resp = requests.get(url, timeout=5)
 
@@ -100,9 +100,9 @@ def send_place(message, place):
         send_safe_photo(
             bot=message.bot,
             chat_id=message.chat_id,
-            parse_mode="HTML",
             url=image_url,
             caption=text,
+            parse_mode="HTML",
             reply_markup=markup
         )
     else:
