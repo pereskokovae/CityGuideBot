@@ -4,6 +4,8 @@ import json
 import random
 import requests
 
+from telegram import InputFile
+from io import BytesIO
 from dotenv import load_dotenv
 from functools import partial
 
@@ -14,7 +16,6 @@ from telegram import (
 )
 from telegram.ext import (
     Updater,
-    CommandHandler,
     CallbackQueryHandler,
     MessageHandler,
     Filters,
@@ -26,6 +27,30 @@ from dialogflow_helper import detect_intent_texts
 
 logger = logging.getLogger(__name__)
 PLACES = []
+
+
+def send_safe_photo(bot, chat_id, url, caption=None):
+    try:
+        resp = requests.get(url, timeout=5)
+
+        if resp.status_code != 200 or not resp.content:
+            raise Exception("Bad image response")
+
+        if "image" not in resp.headers.get("Content-Type", ""):
+            raise Exception("Not an image")
+
+        image_bytes = BytesIO(resp.content)
+        image_bytes.name = "photo.jpg"
+
+        bot.send_photo(
+            chat_id=chat_id,
+            photo=InputFile(image_bytes),
+            caption=caption
+        )
+
+    except Exception as e:
+        if caption:
+            bot.send_message(chat_id=chat_id, text=caption)
 
 
 def load_places():
@@ -69,12 +94,15 @@ def send_place(message, place):
     ]
     markup = InlineKeyboardMarkup(keyboard)
 
-    if place.get("image_url"):
-        message.bot.send_photo(
+    image_url = place.get("image_url")
+
+    if image_url:
+        send_safe_photo(
+            bot=message.bot,
             chat_id=message.chat_id,
-            photo=place["image_url"],
-            caption=text,
             parse_mode="HTML",
+            url=image_url,
+            caption=text,
             reply_markup=markup
         )
     else:
