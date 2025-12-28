@@ -1,0 +1,602 @@
+[
+  {
+    "name": "Мастерская «12» Никиты Михалкова",
+    "why": "Сюда стоит заглянуть хотя бы один раз — место запоминается.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Povarskaya%2033%20June%202009%2001.JPG"
+  },
+  {
+    "name": "Российская государственная библиотека",
+    "why": "Классное место, чтобы сменить обстановку и получить новые впечатления.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/RIAN%20archive%20169374%20Moscow%27s%20Russian%20State%20Library.jpg"
+  },
+  {
+    "name": "Музей Востока",
+    "why": "Сюда часто приходят жители и гости города, чтобы приятно провести время.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/East%20nations%20art%20museum%20in%20Moscow%20shot%2001.jpg"
+  },
+  {
+    "name": "Общевойсковая академия Вооружённых сил Российской Федерации",
+    "why": "Отличное место, если ты ищешь что-то по-настоящему атмосферное в Москве.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%92%D0%BE%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F%20%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D1%8F%20%D0%BD%D0%B0%20%D0%94%D0%B5%D0%B2%D0%B8%D1%87%D1%8C%D0%B5%D0%BC%20%D0%BF%D0%BE%D0%BB%D0%B5%20%2810784627223%29.jpg"
+  },
+  {
+    "name": "Общевойсковая академия Вооружённых сил Российской Федерации",
+    "why": "Сюда часто приходят жители и гости города, чтобы приятно провести время.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%92%D0%BE%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F%20%D0%B0%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D1%8F%20%D0%BD%D0%B0%20%D0%94%D0%B5%D0%B2%D0%B8%D1%87%D1%8C%D0%B5%D0%BC%20%D0%BF%D0%BE%D0%BB%D0%B5%20%2810784627223%29.jpg"
+  },
+  {
+    "name": "Мегаспорт",
+    "why": "Классное место, чтобы сменить обстановку и получить новые впечатления.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Moscow%20Megasport%20Arena%20asv2018-08%20img1.jpg"
+  },
+  {
+    "name": "Храм иконы Божией Матери «Утоли моя печали» в Марьине",
+    "why": "Классное место, чтобы сменить обстановку и получить новые впечатления.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%A5%D1%80%D0%B0%D0%BC%20%22%D0%A3%D1%82%D0%BE%D0%BB%D0%B8%20%D0%BC%D0%BE%D1%8F%20%D0%BF%D0%B5%D1%87%D0%B0%D0%BB%D0%B8%22%20%D0%B2%20%D0%9C%D0%B0%D1%80%D1%8C%D0%B8%D0%BD%D0%B5%20%28%D0%B8%D1%8E%D0%BD%D1%8C%202015%29.JPG"
+  },
+  {
+    "name": "Экспоцентр",
+    "why": "Сюда часто приходят жители и гости города, чтобы приятно провести время.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/From%20Moscow-City%20by%20Anton%20Nossik%203.jpg"
+  },
+  {
+    "name": "Церковь Иоанна Воина",
+    "why": "Хороший вариант, если хочется прогуляться и открыть для себя что-то новое.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Moscow%2C%20Bolshaya%20Yakimanka%20St.John.jpg"
+  },
+  {
+    "name": "Церковь Иоанна Воина",
+    "why": "Хороший вариант, если хочется прогуляться и открыть для себя что-то новое.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Moscow%2C%20Bolshaya%20Yakimanka%20St.John.jpg"
+  },
+  {
+    "name": "Церковь Иоанна Воина",
+    "why": "Хороший вариант, если хочется прогуляться и открыть для себя что-то новое.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Moscow%2C%20Bolshaya%20Yakimanka%20St.John.jpg"
+  },
+  {
+    "name": "Храм Воскресения Христова в Кадашах",
+    "why": "Отличное место, если ты ищешь что-то по-настоящему атмосферное в Москве.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Moscow%20ResurrectionChurchKadashi%200723.jpg"
+  },
+  {
+    "name": "Храм Воскресения Христова в Кадашах",
+    "why": "Сюда часто приходят жители и гости города, чтобы приятно провести время.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Moscow%20ResurrectionChurchKadashi%200723.jpg"
+  },
+  {
+    "name": "Церковь Александра Невского в Кожухове",
+    "why": "Сюда часто приходят жители и гости города, чтобы приятно провести время.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Church%20of%20Saint%20Alexander%20Nevsky%20in%20Kozhukhovo%2001.jpg"
+  },
+  {
+    "name": "Бородинская панорама",
+    "why": "Сюда часто приходят жители и гости города, чтобы приятно провести время.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Panorama-Museum%20of%20the%20Battle%20of%20Borodino.jpg"
+  },
+  {
+    "name": "Церковь Николы Мокрого",
+    "why": "Хороший вариант, если хочется прогуляться и открыть для себя что-то новое.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Church%20of%20Saint%20Nicholas%20%C2%ABWet%C2%BB.JPG"
+  },
+  {
+    "name": "Александро-Невский собор",
+    "why": "Отличное место, если ты ищешь что-то по-настоящему атмосферное в Москве.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE-%D0%9D%D0%B5%D0%B2%D1%81%D0%BA%D0%B8%D0%B9%20%D1%81%D0%BE%D0%B1%D0%BE%D1%80%20%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0.jpg"
+  },
+  {
+    "name": "Церковь Благовещения на Житном дворе",
+    "why": "Отличное место, если ты ищешь что-то по-настоящему атмосферное в Москве.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Annunciation%20church%2C%20Zhitny%20Dvor.jpg"
+  },
+  {
+    "name": "Храм Покрова Пресвятой Богородицы в Ясеневе",
+    "why": "Хороший вариант, если хочется прогуляться и открыть для себя что-то новое.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Yasenevo%20District1.jpg"
+  },
+  {
+    "name": "Храм Покрова Пресвятой Богородицы в Ясеневе",
+    "why": "Сюда стоит заглянуть хотя бы один раз — место запоминается.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Yasenevo%20District1.jpg"
+  },
+  {
+    "name": "Сахаровский центр",
+    "why": "Классное место, чтобы сменить обстановку и получить новые впечатления.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sakharov-center.jpg"
+  },
+  {
+    "name": "Храм Николая Чудотворца в Хамовниках",
+    "why": "Классное место, чтобы сменить обстановку и получить новые впечатления.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Moscow%20Khamovniki%20StNicholas%20asv2021-08%20img1.jpg"
+  },
+  {
+    "name": "Храм Николая Чудотворца в Хамовниках",
+    "why": "Сюда стоит заглянуть хотя бы один раз — место запоминается.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Moscow%20Khamovniki%20StNicholas%20asv2021-08%20img1.jpg"
+  },
+  {
+    "name": "Церковь святых Константина и Елены",
+    "why": "Сюда часто приходят жители и гости города, чтобы приятно провести время.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Church%20elena%20and%20konstantin%20in%20kremlin.gif"
+  },
+  {
+    "name": "Церковь Успения Пресвятой Богородицы на Покровке",
+    "why": "Сюда стоит заглянуть хотя бы один раз — место запоминается.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Pokrovka.jpg"
+  },
+  {
+    "name": "Парк искусств",
+    "why": "Отличное место, если ты ищешь что-то по-настоящему атмосферное в Москве.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Muzeon%20Park%2003.JPG"
+  },
+  {
+    "name": "Парк искусств",
+    "why": "Сюда стоит заглянуть хотя бы один раз — место запоминается.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Muzeon%20Park%2003.JPG"
+  },
+  {
+    "name": "Стадион ЦСКА «Песчаное» имени Григория Федотова",
+    "why": "Сюда стоит заглянуть хотя бы один раз — место запоминается.",
+    "image_url": ""
+  },
+  {
+    "name": "Петровский бульвар",
+    "why": "Классное место, чтобы сменить обстановку и получить новые впечатления.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Moscow%2C%20Petrovsky%20Boulevard%2C%20Petrovka%2030.jpg"
+  },
+  {
+    "name": "Малая спортивная арена",
+    "why": "Хороший вариант, если хочется прогуляться и открыть для себя что-то новое.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9C%D0%B0%D0%BB%D0%B0%D1%8F%20%D0%A1%D0%BF%D0%BE%D1%80%D1%82%D0%B8%D0%B2%D0%BD%D0%B0%D1%8F%20%D0%90%D1%80%D0%B5%D0%BD%D0%B0%20%D0%9B%D1%83%D0%B6%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2.JPG"
+  },
+  {
+    "name": "Крылья Советов",
+    "why": "Сюда часто приходят жители и гости города, чтобы приятно провести время.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Soviet%20Wings%20Sport%20Palace%202023-07%201690025610.tif"
+  },
+  {
+    "name": "Дом Союзов",
+    "why": "Сюда стоит заглянуть хотя бы один раз — место запоминается.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/La%20maison%20Green%20-%20panoramio.jpg"
+  },
+  {
+    "name": "Московский музыкально-драматический цыганский театр Ромэн",
+    "why": "Отличное место, если ты ищешь что-то по-настоящему атмосферное в Москве.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Moscow%20Romen%20Theatre%2003-2016%20photo1.jpg"
+  },
+  {
+    "name": "Церковь Кира и Иоанна",
+    "why": "Классное место, чтобы сменить обстановку и получить новые впечатления.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%A6%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C%20%D0%A1%D0%B2%D1%8F%D1%82%D1%8B%D1%85%20%D0%9A%D0%B8%D1%80%D0%B0%20%D0%B8%20%D0%98%D0%BE%D0%B0%D0%BD%D0%BD%D0%B0.jpg"
+  },
+  {
+    "name": "Московский театр «Et Cetera»",
+    "why": "Сюда часто приходят жители и гости города, чтобы приятно провести время.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%A2%D0%B5%D0%B0%D1%82%D1%80-Et-Cetera.jpg"
+  },
+  {
+    "name": "Red October",
+    "why": "Сюда часто приходят жители и гости города, чтобы приятно провести время.",
+    "image_url": ""
+  },
+  {
+    "name": "Reflex (галерея)",
+    "why": "Сюда часто приходят жители и гости города, чтобы приятно провести время.",
+    "image_url": ""
+  },
+  {
+    "name": "Алевизов ров",
+    "why": "Отличное место, если ты ищешь что-то по-настоящему атмосферное в Москве.",
+    "image_url": ""
+  },
+  {
+    "name": "Ампирная колонна (проект Полисского)",
+    "why": "Классное место, чтобы сменить обстановку и получить новые впечатления.",
+    "image_url": ""
+  },
+  {
+    "name": "Андреевский зал",
+    "why": "Классное место, чтобы сменить обстановку и получить новые впечатления.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Grand%20Kremlin%20Palace%20Andreevsky%20hall%201.jpg"
+  },
+  {
+    "name": "Андреевский монастырь",
+    "why": "Хороший вариант, если хочется прогуляться и открыть для себя что-то новое.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Andrew%20monastery%20in%20Moscow%2C%20Russia.jpg"
+  },
+  {
+    "name": "Булгаковский дом",
+    "why": "Сюда стоит заглянуть хотя бы один раз — место запоминается.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Bulgakovhouse10.jpg"
+  },
+  {
+    "name": "Булгаковский дом",
+    "why": "Хороший вариант, если хочется прогуляться и открыть для себя что-то новое.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Bulgakovhouse10.jpg"
+  },
+  {
+    "name": "Буревестник (стадион, Москва)",
+    "why": "Сюда стоит заглянуть хотя бы один раз — место запоминается.",
+    "image_url": ""
+  },
+  {
+    "name": "Верхоспасский собор",
+    "why": "Классное место, чтобы сменить обстановку и получить новые впечатления.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mosca-Cremlino%2021.jpg"
+  },
+  {
+    "name": "Верхоспасский собор",
+    "why": "Хороший вариант, если хочется прогуляться и открыть для себя что-то новое.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Mosca-Cremlino%2021.jpg"
+  },
+  {
+    "name": "Московский музей дизайна",
+    "why": "Хороший вариант, если хочется прогуляться и открыть для себя что-то новое.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/MDM%20logos.tif"
+  },
+  {
+    "name": "Военная академия РВСН имени Петра Великого",
+    "why": "Сюда стоит заглянуть хотя бы один раз — место запоминается.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Wiki%20Moscow%20Orphanage%2C%20Moskvoretskaya%20Embankment.jpg"
+  },
+  {
+    "name": "Военно-дипломатическая академия",
+    "why": "Сюда стоит заглянуть хотя бы один раз — место запоминается.",
+    "image_url": ""
+  },
+  {
+    "name": "Военный институт Министерства обороны СССР",
+    "why": "Сюда стоит заглянуть хотя бы один раз — место запоминается.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Badge%20Off-High-School%20SU.png"
+  },
+  {
+    "name": "Воробьёвы горы (природный заказник)",
+    "why": "Сюда часто приходят жители и гости города, чтобы приятно провести время.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9F%D1%80%D0%B8%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9%20%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D0%BD%D0%B8%D0%BA%20%22%D0%92%D0%BE%D1%80%D0%BE%D0%B1%D1%8C%D1%91%D0%B2%D1%8B%20%D0%B3%D0%BE%D1%80%D1%8B%22%20%284%29.jpg"
+  },
+  {
+    "name": "ГЭС-1",
+    "why": "Сюда часто приходят жители и гости города, чтобы приятно провести время.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Moscow%20RaushskayaEmbankment10%20K06b.jpg"
+  },
+  {
+    "name": "Гоголь-центр",
+    "why": "Хороший вариант, если хочется прогуляться и открыть для себя что-то новое.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Moscow%20Nikolai%20Gogol%20Drama%20Theatre.jpg"
+  },
+  {
+    "name": "Голицынская больница",
+    "why": "Сюда стоит заглянуть хотя бы один раз — место запоминается.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%93%D0%BE%D0%BB%D0%B8%D1%86%D1%8B%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%20%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D1%86%D0%B0.jpg"
+  },
+  {
+    "name": "Голицынская больница",
+    "why": "Сюда стоит заглянуть хотя бы один раз — место запоминается.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%93%D0%BE%D0%BB%D0%B8%D1%86%D1%8B%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%20%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D0%B8%D1%86%D0%B0.jpg"
+  },
+  {
+    "name": "Дельфинарий Московского зоопарка",
+    "why": "Классное место, чтобы сменить обстановку и получить новые впечатления.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/RIAN%20archive%20374826%20White%20whales%20performing%20at%20the%20Moscow%20Zoo%20dolphinarium.jpg"
+  },
+  {
+    "name": "Дельфинарий Московского зоопарка",
+    "why": "Отличное место, если ты ищешь что-то по-настоящему атмосферное в Москве.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/RIAN%20archive%20374826%20White%20whales%20performing%20at%20the%20Moscow%20Zoo%20dolphinarium.jpg"
+  },
+  {
+    "name": "Дельфинарий Московского зоопарка",
+    "why": "Хороший вариант, если хочется прогуляться и открыть для себя что-то новое.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/RIAN%20archive%20374826%20White%20whales%20performing%20at%20the%20Moscow%20Zoo%20dolphinarium.jpg"
+  },
+  {
+    "name": "Дом русского зарубежья имени Александра Солженицына",
+    "why": "Сюда стоит заглянуть хотя бы один раз — место запоминается.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Domruszarubejya%2810%29.jpg"
+  },
+  {
+    "name": "Еврейский музей и центр толерантности",
+    "why": "Хороший вариант, если хочется прогуляться и открыть для себя что-то новое.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jewish%20Museum%20and%20Tolerance%20Center%20Moscow%20Main%20Entrance.jpg"
+  },
+  {
+    "name": "Еврейский музей и центр толерантности",
+    "why": "Классное место, чтобы сменить обстановку и получить новые впечатления.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Jewish%20Museum%20and%20Tolerance%20Center%20Moscow%20Main%20Entrance.jpg"
+  },
+  {
+    "name": "Иверская часовня",
+    "why": "Сюда стоит заглянуть хотя бы один раз — место запоминается.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Resurrection%20Gate%20in%20Moscow%20%281900s%29.jpg"
+  },
+  {
+    "name": "Институт русского реалистического искусства",
+    "why": "Отличное место, если ты ищешь что-то по-настоящему атмосферное в Москве.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%97%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%98%D0%A0%D0%A0%D0%98.jpg"
+  },
+  {
+    "name": "Камерный театр Таирова",
+    "why": "Сюда часто приходят жители и гости города, чтобы приятно провести время.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Moscow%2CTverskoy%2023%2C25.jpg"
+  },
+  {
+    "name": "Камерный музыкальный театр оперы им. Б. А. Покровского",
+    "why": "Сюда стоит заглянуть хотя бы один раз — место запоминается.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Moscow%20Pokrovsky-opera%202011.jpg"
+  },
+  {
+    "name": "Коломенский дворец",
+    "why": "Сюда часто приходят жители и гости города, чтобы приятно провести время.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Kolomenskoe%201185.JPG"
+  },
+  {
+    "name": "Крестовоздвиженская церковь (Москва)",
+    "why": "Классное место, чтобы сменить обстановку и получить новые впечатления.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Krestovozdvigenskaya%20%28Armenian%20Apostolic%20Church%29.JPG"
+  },
+  {
+    "name": "Культурный центр Вооружённых Сил Российской Федерации",
+    "why": "Сюда часто приходят жители и гости города, чтобы приятно провести время.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Culture%20Centre%20of%20the%20Russian%20Armed%20Forces%20in%20MSK.jpg"
+  },
+  {
+    "name": "Лихоборские ворота",
+    "why": "Хороший вариант, если хочется прогуляться и открыть для себя что-то новое.",
+    "image_url": ""
+  },
+  {
+    "name": "Малый дворец",
+    "why": "Хороший вариант, если хочется прогуляться и открыть для себя что-то новое.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Moscow%2005-2012%20Tsaritsyno%2011.jpg"
+  },
+  {
+    "name": "МедиаАртЛаб",
+    "why": "Сюда стоит заглянуть хотя бы один раз — место запоминается.",
+    "image_url": ""
+  },
+  {
+    "name": "Минералогический музей имени А. Е. Ферсмана РАН",
+    "why": "Классное место, чтобы сменить обстановку и получить новые впечатления.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Fersman%20Mineralogical%20Museum.JPG"
+  },
+  {
+    "name": "Зачатьевский монастырь",
+    "why": "Классное место, чтобы сменить обстановку и получить новые впечатления.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Zachatyevsky%20convent%20%282013%29%20by%20shakko%2001.jpg"
+  },
+  {
+    "name": "Шуховская башня",
+    "why": "Отличное место, если ты ищешь что-то по-настоящему атмосферное в Москве.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%A7%D0%B5%D1%80%D0%BD%D0%BE%20%D0%B1%D0%B5%D0%BB%D0%B0%D1%8F%20%D1%88%D1%83%D1%85%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F%20%D0%B1%D0%B0%D1%88%D0%BD%D1%8F.JPG"
+  },
+  {
+    "name": "Музей архитектуры имени А. В. Щусева",
+    "why": "Сюда часто приходят жители и гости города, чтобы приятно провести время.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Moscow%20ArchitectureMuseum%200922.jpg"
+  },
+  {
+    "name": "Канал имени Москвы",
+    "why": "Хороший вариант, если хочется прогуляться и открыть для себя что-то новое.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Lock%203%20of%20Moscow%20Canal%202018-09%201538220823.jpg"
+  },
+  {
+    "name": "14-й корпус Кремля",
+    "why": "Хороший вариант, если хочется прогуляться и открыть для себя что-то новое.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Kremlin%20administration%20building%2014.jpg"
+  },
+  {
+    "name": "Румянцевский музей",
+    "why": "Сюда часто приходят жители и гости города, чтобы приятно провести время.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Pashkov%20house.jpg"
+  },
+  {
+    "name": "Государственный Дарвиновский музей",
+    "why": "Отличное место, если ты ищешь что-то по-настоящему атмосферное в Москве.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Darvinovskiy%20museum.jpg"
+  },
+  {
+    "name": "Храм Троицы в Орехове-Борисове",
+    "why": "Хороший вариант, если хочется прогуляться и открыть для себя что-то новое.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%A5%D1%80%D0%B0%D0%BC%D0%BE%D0%B2%D1%8B%D0%B9%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81%20%D0%9F%D0%B0%D1%82%D1%80%D0%B8%D0%B0%D1%80%D1%88%D0%B5%D0%B3%D0%BE%20%D0%9F%D0%BE%D0%B4%D0%B2%D0%BE%D1%80%D1%8C%D1%8F%20%D0%96%D0%B8%D0%B2%D0%BE%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9%20%D0%A2%D1%80%D0%BE%D0%B8%D1%86%D1%8B%20%D0%B2%20%D0%9E%D1%80%D0%B5%D1%85%D0%BE%D0%B2%D0%BE-%D0%91%D0%BE%D1%80%D0%B8%D1%81%D0%BE%D0%B2%D0%BE.jpg"
+  },
+  {
+    "name": "Храм Троицы в Орехове-Борисове",
+    "why": "Сюда стоит заглянуть хотя бы один раз — место запоминается.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%A5%D1%80%D0%B0%D0%BC%D0%BE%D0%B2%D1%8B%D0%B9%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81%20%D0%9F%D0%B0%D1%82%D1%80%D0%B8%D0%B0%D1%80%D1%88%D0%B5%D0%B3%D0%BE%20%D0%9F%D0%BE%D0%B4%D0%B2%D0%BE%D1%80%D1%8C%D1%8F%20%D0%96%D0%B8%D0%B2%D0%BE%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9%20%D0%A2%D1%80%D0%BE%D0%B8%D1%86%D1%8B%20%D0%B2%20%D0%9E%D1%80%D0%B5%D1%85%D0%BE%D0%B2%D0%BE-%D0%91%D0%BE%D1%80%D0%B8%D1%81%D0%BE%D0%B2%D0%BE.jpg"
+  },
+  {
+    "name": "Крутицкое подворье",
+    "why": "Классное место, чтобы сменить обстановку и получить новые впечатления.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Krutitsy%20Metochion1.jpg"
+  },
+  {
+    "name": "Крутицкое подворье",
+    "why": "Хороший вариант, если хочется прогуляться и открыть для себя что-то новое.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Krutitsy%20Metochion1.jpg"
+  },
+  {
+    "name": "Военный институт (инженерных войск) Общевойсковой академии Вооружённых Сил Российской Федерации",
+    "why": "Сюда часто приходят жители и гости города, чтобы приятно провести время.",
+    "image_url": ""
+  },
+  {
+    "name": "Сретенский монастырь",
+    "why": "Классное место, чтобы сменить обстановку и получить новые впечатления.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Sretenski.jpg"
+  },
+  {
+    "name": "Храм Димитрия Солунского у Тверских ворот",
+    "why": "Классное место, чтобы сменить обстановку и получить новые впечатления.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Dmitry%20solunsky%20tversk.JPG"
+  },
+  {
+    "name": "Собор Спаса на Бору",
+    "why": "Сюда часто приходят жители и гости города, чтобы приятно провести время.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Spas-na-boru.jpg"
+  },
+  {
+    "name": "Военная академия Генерального штаба Вооружённых сил Российской Федерации",
+    "why": "Классное место, чтобы сменить обстановку и получить новые впечатления.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/General-staff-academy-building-moscow-russia-may-2016.jpg"
+  },
+  {
+    "name": "Военно-политическая академия имени В. И. Ленина",
+    "why": "Классное место, чтобы сменить обстановку и получить новые впечатления.",
+    "image_url": ""
+  },
+  {
+    "name": "Музей Москвы",
+    "why": "Отличное место, если ты ищешь что-то по-настоящему атмосферное в Москве.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Proviantskiye%20sklady%2008%20by%20shakko.jpg"
+  },
+  {
+    "name": "Академия внешней разведки",
+    "why": "Сюда часто приходят жители и гости города, чтобы приятно провести время.",
+    "image_url": ""
+  },
+  {
+    "name": "Современник",
+    "why": "Хороший вариант, если хочется прогуляться и открыть для себя что-то новое.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Moscow%2C%20Sovremennik%20theatre%202019%2003.jpg"
+  },
+  {
+    "name": "Современник",
+    "why": "Классное место, чтобы сменить обстановку и получить новые впечатления.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Moscow%2C%20Sovremennik%20theatre%202019%2003.jpg"
+  },
+  {
+    "name": "Поклонная гора",
+    "why": "Классное место, чтобы сменить обстановку и получить новые впечатления.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Museum%20to%20the%20Russian%20Victory%20in%20Great%20Patriotic%20War%2C%20Poklonnaya%20Hill%20in%20Moscow%2C%20Victory%20Park%2C%20Moscow%2C%20Russia.jpg"
+  },
+  {
+    "name": "Академия Федеральной службы безопасности России",
+    "why": "Сюда часто приходят жители и гости города, чтобы приятно провести время.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%90%D0%BA%D0%B0%D0%B4%D0%B5%D0%BC%D0%B8%D1%8F%20%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9%20%D1%81%D0%BB%D1%83%D0%B6%D0%B1%D1%8B%20%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8.jpg"
+  },
+  {
+    "name": "Жилой дом на Кудринской площади",
+    "why": "Сюда часто приходят жители и гости города, чтобы приятно провести время.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Kudrinskaya%20Square%20Building%20in%20Moscow.jpg"
+  },
+  {
+    "name": "Трансвааль-парк",
+    "why": "Сюда часто приходят жители и гости города, чтобы приятно провести время.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/RIAN%20archive%20142921%20Rescuers%20in%20Transvaal%20Park%20after%20incedent.jpg"
+  },
+  {
+    "name": "Новоспасский монастырь",
+    "why": "Классное место, чтобы сменить обстановку и получить новые впечатления.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9D%D0%BE%D0%B2%D0%BE%D1%81%D0%BF%D0%B0%D1%81%D1%81%D0%BA%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C%20%D0%B8%20%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C%20%D0%A1%D0%BE%D1%80%D0%BE%D0%BA%D0%B0%20%D0%BC%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%20%D0%A1%D0%B5%D0%B2%D0%B0%D1%81%D1%82%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D1%85.jpg"
+  },
+  {
+    "name": "Украина",
+    "why": "Сюда часто приходят жители и гости города, чтобы приятно провести время.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Moscow%20Ukraina%20hotel.jpg"
+  },
+  {
+    "name": "Крылатское",
+    "why": "Сюда часто приходят жители и гости города, чтобы приятно провести время.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Krylatskoe%20Sport%20Palace%20during%202015%20World%20Short%20Track%20Speed%20Skating%20Championships.jpg"
+  },
+  {
+    "name": "ВЭБ Арена",
+    "why": "Сюда стоит заглянуть хотя бы один раз — место запоминается.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Arena%20CSKA.jpg"
+  },
+  {
+    "name": "Церковь Николая Чудотворца «Большой Крест»",
+    "why": "Классное место, чтобы сменить обстановку и получить новые впечатления.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Bolshoykrest.jpg"
+  },
+  {
+    "name": "Покровский бульвар",
+    "why": "Хороший вариант, если хочется прогуляться и открыть для себя что-то новое.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Moscow%2C%20Pokrovsky%2011%20Durasov%20House.jpg"
+  },
+  {
+    "name": "Тверской бульвар",
+    "why": "Отличное место, если ты ищешь что-то по-настоящему атмосферное в Москве.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Tverskoy%20Bulvar.jpg"
+  },
+  {
+    "name": "Страстной бульвар",
+    "why": "Сюда часто приходят жители и гости города, чтобы приятно провести время.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%A1%D1%82%D1%80%D0%B0%D1%81%D1%82%D0%BD%D0%BE%D0%B9%20%D0%B1%D1%83%D0%BB%D1%8C%D0%B2%D0%B0%D1%80%20%28Strastnoy%20Boulevard%29%2C%20%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2004.jpg"
+  },
+  {
+    "name": "Чистопрудный бульвар",
+    "why": "Отличное место, если ты ищешь что-то по-настоящему атмосферное в Москве.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%A7%D0%B8%D1%81%D1%82%D0%BE%D0%BF%D1%80%D1%83%D0%B4%D0%BD%D1%8B%D0%B9%20%D0%B1%D1%83%D0%BB%D1%8C%D0%B2%D0%B0%D1%80%2C%20%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%2005.JPG"
+  },
+  {
+    "name": "Арбат-опера",
+    "why": "Сюда часто приходят жители и гости города, чтобы приятно провести время.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/LOGO%20ARBAT%20OPERA%2001.jpg"
+  },
+  {
+    "name": "Армянский храмовый комплекс (Москва)",
+    "why": "Хороший вариант, если хочется прогуляться и открыть для себя что-то новое.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Moscow%20ArmemianMonastery%20CathedralAndChapel%204106.jpg"
+  },
+  {
+    "name": "Армянский храмовый комплекс (Москва)",
+    "why": "Сюда стоит заглянуть хотя бы один раз — место запоминается.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Moscow%20ArmemianMonastery%20CathedralAndChapel%204106.jpg"
+  },
+  {
+    "name": "Благовещенская церковь (Москва)",
+    "why": "Сюда стоит заглянуть хотя бы один раз — место запоминается.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%91%D0%BB%D0%B0%D0%B3%D0%BE%D0%B2%D0%B5%D1%89%D0%B5%D0%BD%D1%81%D0%BA%D0%B0%D1%8F%20%D1%86%D0%B5%D1%80%D0%BA%D0%BE%D0%B2%D1%8C%202.jpg"
+  },
+  {
+    "name": "Большой Устьинский мост",
+    "why": "Классное место, чтобы сменить обстановку и получить новые впечатления.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Wiki%20ustinsky%20bridges.jpg"
+  },
+  {
+    "name": "Большой зал Московской консерватории",
+    "why": "Сюда стоит заглянуть хотя бы один раз — место запоминается.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F%20%D0%BA%D0%BE%D0%BD%D1%81%D0%B5%D1%80%D0%B2%D0%B0%D1%82%D0%BE%D1%80%D0%B8%D1%8F.%20%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9%20%D0%B7%D0%B0%D0%BB..JPG"
+  },
+  {
+    "name": "Городская клиническая больница имени С. П. Боткина",
+    "why": "Сюда часто приходят жители и гости города, чтобы приятно провести время.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/%D0%93%D0%9A%D0%91%20%D0%B8%D0%BC.%20%D0%A1.%D0%9F.%D0%91%D0%BE%D1%82%D0%BA%D0%B8%D0%BD%D0%B0.%20%D0%9A%D0%BE%D1%80%D0%BF%D1%83%D1%81%2022.jpg"
+  },
+  {
+    "name": "Музей Владимира Высоцкого",
+    "why": "Отличное место, если ты ищешь что-то по-настоящему атмосферное в Москве.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Vysotsky-House%20Taganka%281%29.jpg"
+  },
+  {
+    "name": "Государственный театр Владимира Назарова",
+    "why": "Отличное место, если ты ищешь что-то по-настоящему атмосферное в Москве.",
+    "image_url": ""
+  },
+  {
+    "name": "Государственный театр имени Вс. Мейерхольда",
+    "why": "Отличное место, если ты ищешь что-то по-настоящему атмосферное в Москве.",
+    "image_url": ""
+  },
+  {
+    "name": "Государственный центральный музей кино",
+    "why": "Сюда часто приходят жители и гости города, чтобы приятно провести время.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Film%20Museum%20in%20Moscow.jpg"
+  },
+  {
+    "name": "Государственный центральный музей кино",
+    "why": "Хороший вариант, если хочется прогуляться и открыть для себя что-то новое.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/The%20Film%20Museum%20in%20Moscow.jpg"
+  },
+  {
+    "name": "Государственный центральный музей современной истории России",
+    "why": "Классное место, чтобы сменить обстановку и получить новые впечатления.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Moscow%20English%20Club%20building%20asv2019-06%20img16.jpg"
+  },
+  {
+    "name": "Государственный центральный музей современной истории России",
+    "why": "Сюда стоит заглянуть хотя бы один раз — место запоминается.",
+    "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Moscow%20English%20Club%20building%20asv2019-06%20img16.jpg"
+  }
+]
